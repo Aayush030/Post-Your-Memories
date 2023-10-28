@@ -1,6 +1,6 @@
 # Memories
 
-![Memories]()
+
 ![image](https://github.com/Aayush030/Post-Your-Memories/assets/116271913/3a46b833-f397-430f-ab15-db9f6e737190)
 
 
