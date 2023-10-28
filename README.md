@@ -1,7 +1,8 @@
 # Memories
 
+![image](https://github.com/Aayush030/Post-Your-Memories/assets/116271913/696923fb-e06b-4e74-ba9e-43bdd7b2ab50)
 
-![image](https://github.com/Aayush030/Post-Your-Memories/assets/116271913/3a46b833-f397-430f-ab15-db9f6e737190)
+
 
 
 ## Introduction
